@@ -7,7 +7,7 @@
 .main-container{
     display: flex;
     flex-direction: column;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 .navbar{
     display: flex;
@@ -254,8 +254,8 @@ height: 48%;
         height: 40vh;
     }
 .right{
-    width: 40vw;
-    height: 30vh;
+    width:45vw;
+    height: 28vh;
 }
 .left{
     width: 50vw;
