@@ -155,7 +155,7 @@ margin-right: 20px;
 .right>img {
     width: 100%;
     height: 100%;
-    object-fit: cover; /* or use "contain" depending on your preference */
+    object-fit: cover; 
 }
 .image{
     display: flex;
