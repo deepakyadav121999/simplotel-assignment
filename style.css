@@ -252,6 +252,7 @@ height: 48%;
     .image{
         width: 100vw;
         height: 40vh;
+        gap: 10px;
     }
 .right{
     width:45vw;
